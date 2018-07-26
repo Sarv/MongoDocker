@@ -1,9 +1,6 @@
 # MongoDB Cluster (Sharding Only) Over DOcker
 
-This is a simple 3 node replica mongodb setup based on official `mongo` docker image using `docker-compose` described in my blogpost at https://warzycha.pl/mongo-db-sharding-docker-example/.
-
-For details description, steps and discussion go to:
-
+This is a simple 3 node replica mongodb setup based on official `mongo` docker image using `docker-compose` 
 
 # Run
 
